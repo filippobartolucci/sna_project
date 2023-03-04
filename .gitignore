@@ -131,3 +131,7 @@ dmypy.json
 soc-redditHyperlinks-body.tsv
 soc-redditHyperlinks-title.tsv
 .DS_Store
+
+./node_modules
+./node_modules/*
+subreddit_similarity.csv
